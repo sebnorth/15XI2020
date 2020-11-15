@@ -23,7 +23,8 @@ namespace Zadanie5
             else
             {
 
-                Console.WriteLine("Rok {0} NIE jest przestępny");
+                Console.WriteLine("Rok {0} NIE jest przestępny", rok);
+
             }
 
             Console.ReadKey();
